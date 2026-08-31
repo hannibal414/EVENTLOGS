@@ -1,4 +1,4 @@
-# EVENTLOG
+# EVENTLOGS
 
 A record of specific events occurring around the world, organized by country, location, cause, scale, and source.
 
