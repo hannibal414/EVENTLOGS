@@ -1,10 +1,11 @@
 # EVENTLOG
 
-A record of specific events occurring around the world, organized by country, location, cause, scale and source.
+A record of specific events occurring around the world, organized by country, location, cause, scale, and source.
+
+EVENTLOG provides a simple way to explore and review these events through a structured, continuously updated interface.
 
 ![EVENTLOG Screenshot](images/screenshot.png)
 
-https://www.eventlogs.org/
+**Website:** https://www.eventlogs.org/
 
-Contact: [contact@eventlogs.org](mailto:contact@eventlogs.org)
-
+**Contact:** [contact@eventlogs.org](mailto:contact@eventlogs.org)
