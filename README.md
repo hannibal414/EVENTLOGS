@@ -20,8 +20,7 @@ not a story about them.
 Every record is stripped of anything that could identify a person: no
 names, no ages, no occupations, no addresses. Locations are limited to
 city or region level. There are no photos, no death-toll headlines, and
-nothing designed to be dramatic or shareable. This isn't just an editorial
-choice — it's enforced before a record is ever published.
+nothing designed to be dramatic.
 
 ## Sources and corrections
 
