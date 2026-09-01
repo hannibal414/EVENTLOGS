@@ -11,7 +11,7 @@ with no personal information. It's a register, not a news site.
 Each record is a single line: country, cause, location, severity, and a
 link back to the source article. No headlines, no narrative, no ranking of
 which events matter more. The site is deliberately presented as a stream
-of log lines, the same way a server logs what happens inside a system —
+of log lines, the same way a server logs what happens inside a system
 because that's what this is meant to be: a flat, factual record of events,
 not a story about them.
 
